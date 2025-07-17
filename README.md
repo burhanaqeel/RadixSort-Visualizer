@@ -6,9 +6,6 @@
   <img src="https://img.shields.io/badge/UI-Tkinter-orange.svg" alt="Tkinter">
 </div>
 
-<div align="center">
-  <img width="700" alt="Radix Sort Visualizer Screenshot" src="https://user-images.githubusercontent.com/your-username/radix-sort-visualizer/main/screenshot.png">
-</div>
 
 ## 🔍 Overview
 
