@@ -1,0 +1,2 @@
+# No external dependencies required
+# Python's built-in tkinter library is used for the GUI 
