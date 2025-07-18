@@ -41,8 +41,7 @@ Radix Sort is a non-comparative sorting algorithm that processes integers digit 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/radix-sort-visualizer.git
-   cd radix-sort-visualizer
+   git clone https://github.com/burhanaqeel/RadixSort-Visualizer.git
    ```
 
 2. Set up a virtual environment:
